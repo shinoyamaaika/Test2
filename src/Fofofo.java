@@ -6,5 +6,6 @@ public class Fofofo {
 
 		System.out.println("ああ");
 		System.out.println("枝分かれする");
+		System.out.println("リモート");
 	}
 }
