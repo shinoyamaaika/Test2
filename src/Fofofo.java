@@ -5,6 +5,6 @@ public class Fofofo {
 		// TODO 自動生成されたメソッド・スタブ
 
 		System.out.println("ああ");
-		
+		System.out.println("いい");
 	}
 }
